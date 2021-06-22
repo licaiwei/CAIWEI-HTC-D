@@ -1,5 +1,6 @@
 # CAIWEI：HTC-D (Hand Transport Capture Device）手部运动捕获装置
 
+
 ## 硬件相关
 
 [stm32CubeMX 与 MDK5工程文件](https://github.com/licaiwei/CAIWEI-HTC-D/tree/main/hardware/STM32)
@@ -27,7 +28,7 @@ ROS Melodic
 打开一个`termial`，定位到你的 `workspace/src` 下
 
 ```bash
-git clone 
+git clone git@github.com:licaiwei/CAIWEI-HTC-D.git
 ```
 ##### 启动驱动程序
 使用前获得USB权限，查看USB设备
