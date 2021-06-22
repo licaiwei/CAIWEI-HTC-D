@@ -2,11 +2,11 @@
 
 ## 硬件相关
 
-[stm32CubeMX 与 MDK5工程文件](https://github.com/licaiwei/HTC-D/hardware/STM32)
+[stm32CubeMX 与 MDK5工程文件](https://github.com/licaiwei/CAIWEI-HTC-D/tree/main/hardware/STM32)
 
-[Altium Designer 工程文件](https://github.com/licaiwei/HTC-D/hardware/PCB)
+[Altium Designer 工程文件](https://github.com/licaiwei/CAIWEI-HTC-D/tree/main/hardware/PCB)
 
-[Solideworks 文件](https://github.com/licaiwei/HTC-D/hardware/Mechanism)
+[Solideworks 文件](https://github.com/licaiwei/CAIWEI-HTC-D/tree/main/hardware/Mechanism)
 
 [HTC-VIVE（可选)]()
 
