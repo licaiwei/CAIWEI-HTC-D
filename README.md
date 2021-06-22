@@ -14,8 +14,13 @@
 ## 软件相关
 #### 编程环境
 ROS Melodic
-pyserial
-openVR（可选）
+
+[pyserial](https://pypi.org/project/pyserial/)
+
+[openVR（可选）](https://github.com/ValveSoftware/openvr)
+
+[VR_bridge（可选）]()
+
 
 #### 使用方法
 ##### 获取代码
