@@ -1,5 +1,7 @@
 # CAIWEI：HTC-D (Hand Transport Capture Device）手部运动捕获装置
 
+![](C:\Users\lii\Documents\CAIWEI_Open_source\CAIWEI-HTC-D\assets\demo.gif)
+
 
 ## 硬件相关
 
