@@ -1,9 +1,5 @@
 # CAIWEI：HTC-D (Hand Transport Capture Device）手部运动捕获装置
 
-<<<<<<< Updated upstream
-撒地方开始打；拉萨的飞机发阿萨的撒
-x法大师傅咖啡机啊
-=======
 ## 硬件相关
 
 [stm32CubeMX 与 MDK5工程文件](https://github.com/licaiwei/HTC-D/hardware/STM32)
@@ -56,4 +52,3 @@ rosrun hand_demo joint_state_publiser_controller.py
 ```bash
 roslaunch sr_description display.launch
 ```
->>>>>>> Stashed changes
