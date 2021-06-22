@@ -1,0 +1,13 @@
+<launch>
+  <arg name="use_Kalman" default="true"/>
+  <!-- 关节限位 config -->
+  <rosparam file="$(find sr_description)/config/shadow_hand_joint_limit_config.yaml" command="load" ns="shadow_hand_joint_limit" />
+  <!-- AD对应的关节 config -->
+  <rosparam file="$(find sr_description)/config/shadow_hand_name_id_config.yaml" command="load" />
+
+  <!-- 读取AD值，发布AD的jointstates -->
+  <node name="hand_drive" pkg="hand_demo" type="hand_drive.py"  output="screen" >
+    <param name="Kalman"  value="$(arg use_Kalman)"/>
+  </node>
+  
+</launch>

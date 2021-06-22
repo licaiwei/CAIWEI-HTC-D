@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"vr_hand_f\startup_stm32f103xe.o"
+"vr_hand_f\main.o"
+"vr_hand_f\stm32f1xx_it.o"
+"vr_hand_f\stm32f1xx_hal_msp.o"
+"vr_hand_f\stm32f1xx_hal_gpio_ex.o"
+"vr_hand_f\stm32f1xx_hal_adc.o"
+"vr_hand_f\stm32f1xx_hal_adc_ex.o"
+"vr_hand_f\stm32f1xx_hal.o"
+"vr_hand_f\stm32f1xx_hal_rcc.o"
+"vr_hand_f\stm32f1xx_hal_rcc_ex.o"
+"vr_hand_f\stm32f1xx_hal_gpio.o"
+"vr_hand_f\stm32f1xx_hal_dma.o"
+"vr_hand_f\stm32f1xx_hal_cortex.o"
+"vr_hand_f\stm32f1xx_hal_pwr.o"
+"vr_hand_f\stm32f1xx_hal_flash.o"
+"vr_hand_f\stm32f1xx_hal_flash_ex.o"
+"vr_hand_f\stm32f1xx_hal_exti.o"
+"vr_hand_f\stm32f1xx_hal_tim.o"
+"vr_hand_f\stm32f1xx_hal_tim_ex.o"
+"vr_hand_f\stm32f1xx_hal_uart.o"
+"vr_hand_f\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "VR_hand_F\VR_hand_F.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "VR_hand_F.map" -o VR_hand_F\VR_hand_F.axf

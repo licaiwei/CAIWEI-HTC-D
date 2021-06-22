@@ -1,0 +1,26 @@
+hand_joint_id_list:
+  # AD号      关节名称
+  # 食指
+  AD2: lh_FFJ2
+  AD1: lh_FFJ3
+  AD0: lh_FFJ4
+  
+  # 中指
+  AD5: lh_MFJ2
+  AD4: lh_MFJ3
+  #AD3: lh_MFJ4
+  
+  # 无名指
+  AD14: lh_RFJ2
+  AD7: lh_RFJ3
+  AD6: lh_RFJ4
+  
+  # 小指
+  # AD15: lh_LFJ2  
+  # AD8: lh_LFJ3  
+  # AD9: lh_LFJ4
+  
+  # 拇指
+  AD13: lh_THJ1
+  AD12: lh_THJ2
+  AD11: lh_THJ4
