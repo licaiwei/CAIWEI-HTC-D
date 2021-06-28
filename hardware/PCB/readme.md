@@ -6,10 +6,9 @@
 
 芯片：
 
-[AS5600]: 
-
+[AS5600](https://github.com/licaiwei/CAIWEI-HTC-D/tree/main/hardware/PCB/pic/as5600_磁编码器.pdf)
+![demo.gif](https://github.com/licaiwei/CAIWEI-HTC-D/blob/main/assets/demo.gif)
 ![屏幕截图 2021-06-22 162618](https://github.com/licaiwei/CAIWEI-HTC-D/tree/main/hardware/PCB/pic/屏幕截图 2021-06-22 162618.png)
-
 ![屏幕截图 2021-06-22 162431](https://github.com/licaiwei/CAIWEI-HTC-D/tree/main/hardware/PCB/pic/屏幕截图 2021-06-22 162431.png)
 
 ## 主控
